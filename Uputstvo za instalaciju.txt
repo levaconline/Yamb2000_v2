@@ -1,0 +1,21 @@
+
+ Yamb2000
+ ********
+
+ Prilikom instaliranja programa treba uciniti sledece:
+
+ 1. Sve cab fajlove, kao i setup.exe i Setup.lst fajl, treba smestiti u jedan folder.
+   (nebitan je naziv foldera, vazno je jedino da su svi u istom folderu).
+ 2. Pogasite sve programe koji rade.
+ 3. Pokrenite fajl setup.exe duplom klikom na njega.
+ 4. Dalje sledite uputstva koja Vam daje instalacioni program:
+
+	- Ako vas program pita da li hocete da restartujete kompjuter odgovorite potvrdno.
+	- Kada Vas program pita na koju lokaciju zelite da instalirate program,
+	  preporucljivo je da ga instalirate na vec ponudjenu lokaciju, dakle nebi trebalo menjati lokaciju.
+	- Zatim pritisnite dugme na kojem je slika setup ikone.
+	- Dalje na sva pitanja odgovorite potvrdno.
+	- I to je sve...
+
+Za blize iformacije, posetite: http://users.yubc.net/~hronos, E-mail: hronos@yubc.net
+Copyright © 2000 HRONOS

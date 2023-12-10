@@ -1,0 +1,39 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Thu Jan 10 05:03:08 2002           **
+;**                                                                **
+;** MakeCAB Version: (32) 1.00.0600 (11/22/96)                     **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+2,Disk 2
+[cabinet list]
+1,1,Yamb201.CAB
+2,2,Yamb202.CAB
+[file list]
+1,0,Setup.Lst,4051
+1,0,setup.exe,140800
+1,1,Yamb2000.exe,925696
+1,1,MSVBVM60.DLL,1409024
+2,2,OLEAUT32.DLL,598288
+2,2,OLEPRO32.DLL,164112
+2,2,ASYCFILT.DLL,147728
+2,2,STDOLE2.TLB,17920
+2,2,COMCAT.DLL,22288
+2,2,SETUP1.EXE,286720
+2,2,VB6STKIT.DLL,102912
+2,2,ST6UNST.EXE,73216
+2,2,Res.rec,6
+2,2,Rnd.zec,0
+2,2,Applause.wav,28074
+2,2,DRUMROLL.WAV,19426
+2,2,MWS.WAV,48988
+2,2,Start.wav,40552
+2,2,STOP.WAV,5924
+2,2,TADA.WAV,171100
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Thu Jan 10 05:03:08 2002           **
+;**                                                                **
+;*** END ************************************************************

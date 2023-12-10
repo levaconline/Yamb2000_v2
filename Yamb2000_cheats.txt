@@ -1,0 +1,18 @@
+Da biste aktivirali varanje, pritisnite 
+taster F4 u toku igre i zatim ukucajte 
+neku od sledecih sifara:
+
+ ============================================
+ zdenka = nagrada
+ zdenkas = supernagrada I
+ cicamica = supernagrada II
+ arijadne = lik Arijadne
+ open = omogucava otvaranje snimljene igre
+ rekord = promena rekorda
+ sloboda = moguce upisati brojeve u 5 polja
+ rnd = predvidljivo generisanje brojeva
+ ============================================
+
+ Za blize iformacije, posetite: http://avala.yubc.net/~hronos, 
+ E-mail: hronos@yubc.net
+ Copyright © 2002 HRONOS

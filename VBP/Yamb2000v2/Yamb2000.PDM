@@ -1,0 +1,616 @@
+[Root]
+Most Recent Package=Standard Setup Package Yamb2000
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Y2000
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+C:\Res.rec=
+C:\Rnd.zec=
+A:\Readme.txt=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Res.rec=Yes
+C:\Rnd.zec=Yes
+A:\Readme.txt=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Res.rec=$(AppPath)
+C:\Rnd.zec=$(AppPath)
+A:\Readme.txt=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.exe=No
+C:\Res.rec=No
+C:\Rnd.zec=No
+A:\Readme.txt=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=multi
+Size=1.2 MB
+Title=Yamb
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Yamb
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Yamb]
+Icon1=Yamb2000.exe
+Title1=Yamb
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Y2000
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000
+ServerSideCab=
+File1=C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Y2000\setup.exe
+File2=C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Y2000\Setup.Lst
+File3=C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Y2000\Yamb201.CAB
+File4=C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Y2000\Yamb202.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 2000|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\1_TORBA\Yamb2000
+
+[Package|Standard Setup Package 2000|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 2000|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 2000|Files Found]
+
+[Package|Standard Setup Package 2000|Files Released]
+Readme.txt=
+
+[Package|Standard Setup Package 2000|Missing Dependency Information]
+
+[Package|Standard Setup Package 2000|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 2000|Files Added]
+c:\res.rec=
+c:\rnd.zec=
+readme.txt=
+
+[Package|Standard Setup Package 2000|Files Removed]
+c:\res.rec=
+c:\rnd.zec=
+
+[Package|Standard Setup Package 2000|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Res.rec=No
+C:\Rnd.zec=No
+
+[Package|Standard Setup Package 2000|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 2000|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2000|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Res.rec=$(AppPath)
+C:\Rnd.zec=$(AppPath)
+A:\Readme.txt=$(AppPath)
+
+[Package|Standard Setup Package 2000|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.exe=No
+C:\Res.rec=No
+C:\Rnd.zec=No
+A:\Readme.txt=No
+
+[Package|Standard Setup Package 2000|Distribution]
+Type=multi
+Size=1.2 MB
+Title=Za_Snezu&LJubinku
+
+[Package|Standard Setup Package 2000|IconGroups]
+Group0=Yamb
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 2000|Yamb]
+Icon1=Yamb2000.exe
+Title1=Yamb
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 2000|Package]
+PackageFolder=C:\1_TORBA\Yamb2000
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000
+ServerSideCab=
+File1=C:\1_TORBA\Yamb2000\setup.exe
+File2=C:\1_TORBA\Yamb2000\Setup.Lst
+File3=C:\1_TORBA\Yamb2000\Yamb201.CAB
+File4=C:\1_TORBA\Yamb2000\Yamb202.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+
+[Package|SSPYamb2000|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\~hronos
+
+[Package|SSPYamb2000|Configure DAO ISAMs]
+Applicable=No
+
+[Package|SSPYamb2000|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|SSPYamb2000|Files Found]
+Res.rec=C:\Program Files\Yamb2000\Res.rec
+
+[Package|SSPYamb2000|Files Released]
+Readme.txt=
+Res.rec=
+rnd.zec=
+
+[Package|SSPYamb2000|Missing Dependency Information]
+
+[Package|SSPYamb2000|Out-of-Date Dependency Information]
+
+[Package|SSPYamb2000|Files Added]
+C:\Program Files\Yamb2000\Res.rec=
+C:\Program Files\Yamb2000\START.WAV=
+C:\Program Files\Yamb2000\TADA.WAV=
+C:\Program Files\Yamb2000\MWS.WAV=
+C:\Program Files\Yamb2000\DRUMROLL.WAV=
+C:\Program Files\Yamb2000\APPLAUSE.WAV=
+C:\Program Files\Yamb2000\Rnd.zec=
+
+[Package|SSPYamb2000|Files Removed]
+c:\utils\nc\readme.txt=
+
+[Package|SSPYamb2000|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Yamb2000\Res.rec=Yes
+C:\Program Files\Yamb2000\Rnd.zec=Yes
+C:\Program Files\Yamb2000\START.WAV=Yes
+C:\Program Files\Yamb2000\APPLAUSE.WAV=Yes
+C:\Program Files\Yamb2000\TADA.WAV=Yes
+C:\Program Files\Yamb2000\MWS.WAV=Yes
+C:\Program Files\Yamb2000\DRUMROLL.WAV=Yes
+
+[Package|SSPYamb2000|Configure Registry Files]
+Applicable=No
+
+[Package|SSPYamb2000|Configure Remote Servers]
+Applicable=No
+
+[Package|SSPYamb2000|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Res.rec=$(AppPath)
+C:\Rnd.zec=$(AppPath)
+A:\Readme.txt=$(AppPath)
+C:\Program Files\Yamb2000\Res.rec=$(AppPath)
+C:\Program Files\Yamb2000\START.WAV=$(AppPath)
+C:\Program Files\Yamb2000\TADA.WAV=$(AppPath)
+C:\Program Files\Yamb2000\MWS.WAV=$(AppPath)
+C:\Program Files\Yamb2000\DRUMROLL.WAV=$(AppPath)
+C:\Program Files\Yamb2000\APPLAUSE.WAV=$(AppPath)
+C:\Program Files\Yamb2000\Rnd.zec=$(AppPath)
+
+[Package|SSPYamb2000|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.exe=No
+C:\Res.rec=No
+C:\Rnd.zec=No
+A:\Readme.txt=No
+C:\Program Files\Yamb2000\Res.rec=No
+C:\Program Files\Yamb2000\START.WAV=No
+C:\Program Files\Yamb2000\TADA.WAV=No
+C:\Program Files\Yamb2000\MWS.WAV=No
+C:\Program Files\Yamb2000\DRUMROLL.WAV=No
+C:\Program Files\Yamb2000\APPLAUSE.WAV=No
+C:\Program Files\Yamb2000\Rnd.zec=No
+
+[Package|SSPYamb2000|Distribution]
+Type=single
+Size=1.2 MB
+Title=Yamb2000
+
+[Package|SSPYamb2000|IconGroups]
+Group0=Yamb
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|SSPYamb2000|Yamb]
+Icon1=Yamb2000.exe
+Title1=Yamb
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|SSPYamb2000|Package]
+PackageFolder=C:\~hronos
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000
+ServerSideCab=
+File1=C:\~hronos\setup.exe
+File2=C:\~hronos\Setup.Lst
+File3=C:\~hronos\Yamb2000.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.exe=$(ProgramFiles)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=Yamb2000.CAB
+DepCabRun=Yamb2000.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000
+ServerSideCab=
+File1=C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\~hronos\ostava
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 2|Files Found]
+
+[Package|Standard Setup Package 2|Files Released]
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 2|Files Added]
+
+[Package|Standard Setup Package 2|Files Removed]
+
+[Package|Standard Setup Package 2|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.exe=No
+
+[Package|Standard Setup Package 2|Distribution]
+Type=multi
+Size=1.2 MB
+Title=Yamb
+
+[Package|Standard Setup Package 2|IconGroups]
+Group0=YambLO
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 2|YambLO]
+Icon1=Yamb2000.exe
+Title1=YambLO
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=C:\~hronos\ostava
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000
+ServerSideCab=
+File1=C:\~hronos\ostava\setup.exe
+File2=C:\~hronos\ostava\Setup.Lst
+File3=C:\~hronos\ostava\Yamb201.CAB
+File4=C:\~hronos\ostava\Yamb202.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package Yamb2000|Yamb]
+Icon1=Yamb2000.exe
+Title1=Yamb
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package Yamb2000|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\1_TORBA\Yamb2000
+
+[Package|Standard Setup Package Yamb2000|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package Yamb2000|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package Yamb2000|Files Found]
+Res.rec=C:\Program Files\Yamb2000\Res.rec
+
+[Package|Standard Setup Package Yamb2000|Files Released]
+Readme.txt=
+Res.rec=
+rnd.zec=
+
+[Package|Standard Setup Package Yamb2000|Missing Dependency Information]
+
+[Package|Standard Setup Package Yamb2000|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package Yamb2000|Files Added]
+c:\program files\yamb2000\res.rec=
+c:\program files\yamb2000\start.wav=
+c:\program files\yamb2000\tada.wav=
+c:\program files\yamb2000\mws.wav=
+c:\program files\yamb2000\drumroll.wav=
+c:\program files\yamb2000\applause.wav=
+
+[Package|Standard Setup Package Yamb2000|Files Removed]
+c:\utils\nc\readme.txt=
+c:\program files\yamb2000\res.rec=
+
+[Package|Standard Setup Package Yamb2000|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Yamb2000\Yamb2000.exe=Yes
+C:\Program Files\Yamb2000\Res.rec=No
+C:\Program Files\Yamb2000\START.WAV=Yes
+C:\Program Files\Yamb2000\TADA.WAV=Yes
+C:\Program Files\Yamb2000\MWS.WAV=Yes
+C:\Program Files\Yamb2000\DRUMROLL.WAV=Yes
+C:\Program Files\Yamb2000\APPLAUSE.WAV=Yes
+
+[Package|Standard Setup Package Yamb2000|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package Yamb2000|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package Yamb2000|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Res.rec=$(AppPath)
+C:\Rnd.zec=$(AppPath)
+A:\Readme.txt=$(AppPath)
+C:\Program Files\Yamb2000\Res.rec=$(AppPath)
+C:\Program Files\Yamb2000\START.WAV=$(AppPath)
+C:\Program Files\Yamb2000\TADA.WAV=$(AppPath)
+C:\Program Files\Yamb2000\MWS.WAV=$(AppPath)
+C:\Program Files\Yamb2000\DRUMROLL.WAV=$(AppPath)
+C:\Program Files\Yamb2000\APPLAUSE.WAV=$(AppPath)
+C:\Program Files\Yamb2000\Rnd.zec=$(AppPath)
+C:\UTILS\NC\README.TXT=$(AppPath)
+C:\Program Files\Yamb2000\Yamb2000.exe=$(AppPath)
+
+[Package|Standard Setup Package Yamb2000|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000\Yamb2000.exe=No
+C:\Res.rec=No
+C:\Rnd.zec=No
+A:\Readme.txt=No
+C:\Program Files\Yamb2000\Res.rec=No
+C:\Program Files\Yamb2000\START.WAV=No
+C:\Program Files\Yamb2000\TADA.WAV=No
+C:\Program Files\Yamb2000\MWS.WAV=No
+C:\Program Files\Yamb2000\DRUMROLL.WAV=No
+C:\Program Files\Yamb2000\APPLAUSE.WAV=No
+C:\Program Files\Yamb2000\Rnd.zec=No
+C:\UTILS\NC\README.TXT=No
+C:\Program Files\Yamb2000\Yamb2000.exe=No
+
+[Package|Standard Setup Package Yamb2000|Distribution]
+Type=multi
+Size=1.2 MB
+Title=Yamb2000
+
+[Package|Standard Setup Package Yamb2000|Package]
+PackageFolder=C:\1_TORBA\Yamb2000
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\VB98\YAMB2000
+ServerSideCab=
+File1=C:\1_TORBA\Yamb2000\setup.exe
+File2=C:\1_TORBA\Yamb2000\Setup.Lst
+File3=C:\1_TORBA\Yamb2000\Yamb201.CAB
+File4=C:\1_TORBA\Yamb2000\Yamb202.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package Yamb2000|IconGroups]
+Group0=Yamb2000
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Standard Setup Package Yamb2000|Yamb2000]
+Icon1=Yamb2000.exe
+Title1=Yamb2000
+StartIn1=$(AppPath)
+Key1=Icon4
