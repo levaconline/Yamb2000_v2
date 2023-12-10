@@ -5,4 +5,5 @@
  An old VB6 version of Yamb (Dice) - Made 2000 AD
  
  Because VB6 is too old and unsupported in recent times, I put setup files too.
-  
+
+ Language: Serbian.
